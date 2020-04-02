@@ -1,5 +1,5 @@
 # SRE_WorkBook
-A brief summary of the SRE workbook by Google
+A brief summary of the SRE workbook by Google (https://landing.google.com/sre/workbook)
 
 	- Foreword by Andrew Clay Shafer
 		○ Dev and ops can and should work together
